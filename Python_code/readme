@@ -1,0 +1,7 @@
+Open https://www.onlineocr.net/ and upload the PDF file and download it
+as xlsx file.
+
+Manually remove all the headers and footers such that only the table
+is left
+
+Remove the Nan Row (that is the row with no day name,after friday)

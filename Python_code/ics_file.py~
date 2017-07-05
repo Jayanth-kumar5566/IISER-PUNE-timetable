@@ -1,0 +1,43 @@
+import ics
+c = ics.Calendar()
+e = ics.Event()
+
+#date=YYYYMMDD
+#time=HH:MM:SS
+
+#Input will be courses
+courses=[]
+
+date=[]
+#"20170801"to"20170919"-"20171004"to"20171121"
+from datetime import date
+d1 = date(2017,8,1)
+d2 = date(2017,9,19)
+
+delta= d2-d1
+for i in range(delta.days + 1):
+    date.append(d1 + timedelta(days=i))
+
+d1 = date(2017,10,4)
+d2 = date(2017,11,21)
+
+delta= d2-d1
+for i in range(delta.days + 1):
+    date.append(d1 + timedelta(days=i))
+
+#Need to get stime and end time
+stime=["08:00:00"]
+etime=["08:30:00"]
+
+for (course_name,date,start_time,end_time) in zip(courses,date,stime,etime):
+    e.name = course_name
+    e.begin =str(date)+" "+str(start_time)
+    e.end = str(date)+" "+str(end_time)
+    #e.location =str(location)
+    c.events.append(e)
+
+
+print c.events
+
+with open('timetable.ics', 'w') as f:
+    f.writelines(c)
