@@ -1,0 +1,59 @@
+<!doctype html>
+<title>Time table generator</title>
+<style>
+  * {
+   box-sizing: border-box; 
+  }
+  body {
+    margin: 0;
+  }
+  #main {
+    display: flex;
+    min-height: calc(100vh - 40vh);
+  }
+  #main > article {
+    flex: 1;
+  }
+  #main > nav, 
+  #main > aside {
+    flex: 0 0 20vw;
+    background: beige;
+  }
+  #main > nav {
+    order: -1;
+  }
+  header, footer, article, nav, aside {
+    padding: 1em;
+  }
+  header, footer {
+    background: yellowgreen;
+    height: 20vh;
+  }
+</style>
+<body>
+  <header>
+    <h1>Time Table generator IISER PUNE</h1>
+  </header>
+  <div id="main">
+    <article>
+      <h2> Steps to use the .ics file </h2>
+      <ol>
+	<li>Open <a href="https://calendar.google.com/"> Google
+	Calendar </a> on your computer. Note:This instruction works
+	  only on your computer.</li>
+	<li>In the top right,click on <em>Settings</em></li>
+	<li>Open the <em>Calendars</em> tab.</li>
+	<li>Click Import calendar between the <em>My calendars</em> and
+	  <em>Other Calendars</em> sections.</li>
+	<li>Click Choose File and select the file you
+	  download <em>download.ics</em></li>
+	<li>Click on <em>Import</em></li>
+      </ol>
+
+    </article>
+  </div>
+  
+  <footer>powered by IPLUG<br>
+          created by Jayanth Kumar N</footer>
+</body>
+

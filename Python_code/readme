@@ -4,4 +4,6 @@ as xlsx file.
 Manually remove all the headers and footers such that only the table
 is left
 
+Change BI0 to BIO
+
 Remove the Nan Row (that is the row with no day name,after friday)

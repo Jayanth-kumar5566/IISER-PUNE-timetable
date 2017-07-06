@@ -12,11 +12,10 @@ def run(courses):
         return str(x).split('\n')
 
     df=df.applymap(check)
-    print df
     master=[] #(course,day,time)
 
     for c in courses:
-        def course(x,cu=c):
+        def course(x,cu=str(c)):
             if cu in x:
                 return True
             else:
@@ -26,7 +25,6 @@ def run(courses):
             for j in df.columns:
                 if cf[j][i] == True:
                     master.append((c,i,j))
-    print cf
     d=[]
     d1 = date(2017,8,1)
     d2 = date(2017,9,19)
