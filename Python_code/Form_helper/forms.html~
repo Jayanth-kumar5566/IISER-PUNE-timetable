@@ -1,0 +1,76 @@
+<input type='checkbox' name=course0 value="MTH430"> Topics in Algebra: Lie Algebras<br>
+<input type='checkbox' name=course1 value="BIO 320"> Genetics<br>
+<input type='checkbox' name=course2 value="BIO 321"> Plant Biology I<br>
+<input type='checkbox' name=course3 value="BIO 322"> Biophysics-I<br>
+<input type='checkbox' name=course4 value="PHY312"> Electrodynamics<br>
+<input type='checkbox' name=course5 value="CHM340"> Advanced Organic Chemistry Laboratory<br>
+<input type='checkbox' name=course6 value="CHM431"> Chemical Biology<br>
+<input type='checkbox' name=course7 value="CHM430"> Advanced Physical Chemistry Laboratory<br>
+<input type='checkbox' name=course8 value="BIO 301"> Lab/Theory Project<br>
+<input type='checkbox' name=course9 value="MTH401"> Lab Training/Theory Project<br>
+<input type='checkbox' name=course10 value="HSS401"> Lab training/Theory project- Topics in the History of Science<br>
+<input type='checkbox' name=course11 value="HSS312"> Perspectives on Sound<br>
+<input type='checkbox' name=course12 value="MTH412"> Algebraic Topology<br>
+<input type='checkbox' name=course13 value="MTH413"> Algorithms<br>
+<input type='checkbox' name=course14 value="MTH410"> Galois Theory<br>
+<input type='checkbox' name=course15 value="CHM320"> Symmetry and Group Theory<br>
+<input type='checkbox' name=course16 value="MTH415"> Probability<br>
+<input type='checkbox' name=course17 value="PHY330"> Physics Lab IV<br>
+<input type='checkbox' name=course18 value="ECS301"> Lab Training/Theory project<br>
+<input type='checkbox' name=course19 value="ECS325"> Numerical Computation using MATLAB<br>
+<input type='checkbox' name=course20 value="ECS322"> Landscapes and Earth surface processes<br>
+<input type='checkbox' name=course21 value="CHM301"> Lab Training/ Theory Project — I<br>
+<input type='checkbox' name=course22 value="MTH301"> Lab Training/Theory Project<br>
+<input type='checkbox' name=course23 value="PHY334"> Astronomy and Astrophysics<br>
+<input type='checkbox' name=course24 value="HSS301"> Lab training/Theory project- Topics in the History of Science<br>
+<input type='checkbox' name=course25 value="ECS401"> Lab Training/Theory project<br>
+<input type='checkbox' name=course26 value="MTH417"> Ordinary Differential Equations<br>
+<input type='checkbox' name=course27 value="BIO 401"> Lab/Theory Project<br>
+<input type='checkbox' name=course28 value="PHY311"> Classical Mechanics<br>
+<input type='checkbox' name=course29 value="PHY453"> Computational Physics<br>
+<input type='checkbox' name=course30 value="BIO 353"> Immunology II<br>
+<input type='checkbox' name=course31 value="BIO 352"> Animal Physiology II<br>
+<input type='checkbox' name=course32 value="PHY412"> Statistical Mechanics II<br>
+<input type='checkbox' name=course33 value="CHM445"> Electrochemistry<br>
+<input type='checkbox' name=course34 value="PHY410"> Physics Lab VI<br>
+<input type='checkbox' name=course35 value="PHY411"> Condensed Matter Physics I<br>
+<input type='checkbox' name=course36 value="PHY461"> Quantum Field Theory<br>
+<input type='checkbox' name=course37 value="BIO 311"> Advanced Cell Biology<br>
+<input type='checkbox' name=course38 value="BIO 310"> Biostatistics<br>
+<input type='checkbox' name=course39 value="BIO 313"> Advanced Molecular Biology<br>
+<input type='checkbox' name=course40 value="BIO 334"> Neurobiology I<br>
+<input type='checkbox' name=course41 value="BIO 314"> Bioinformatics<br>
+<input type='checkbox' name=course42 value="PHY301"> Lab Training/ Theory Project<br>
+<input type='checkbox' name=course43 value="CHM401"> Lab Training/ Theory Project — II<br>
+<input type='checkbox' name=course44 value="PHY340"> Methods of Experimental Physics<br>
+<input type='checkbox' name=course45 value="CHM421"> Polymer Chemistry<br>
+<input type='checkbox' name=course46 value="CHM436"> Molecular Modelling and Simulation<br>
+<input type='checkbox' name=course47 value="PHY310"> Mathematical Methods in<br>
+<input type='checkbox' name=course48 value="ECS330"> Earth and Planetary Materials Lab<br>
+<input type='checkbox' name=course49 value="MTH421"> Measure Theory & Integration<br>
+<input type='checkbox' name=course50 value="CHM311"> Physical Organic Chemistry<br>
+<input type='checkbox' name=course51 value="CHM312"> Main Group Chemistry<br>
+<input type='checkbox' name=course52 value="CHM432"> Solid State Chemistry<br>
+<input type='checkbox' name=course53 value="CHM332"> Separation Principles and techniques<br>
+<input type='checkbox' name=course54 value="CHM331"> Self-Assembly in Chemistry<br>
+<input type='checkbox' name=course55 value="HSS332"> Art and Science of Numismatics<br>
+<input type='checkbox' name=course56 value="MTH314"> Statistical Inference<br>
+<input type='checkbox' name=course57 value="MTH311"> Analysis<br>
+<input type='checkbox' name=course58 value="MTH310"> Group Theory<br>
+<input type='checkbox' name=course59 value="BIO 454"> Structural Biology<br>
+<input type='checkbox' name=course60 value="MTH312"> Point Set Topology<br>
+<input type='checkbox' name=course61 value="ECS316"> Earth and Planetary Materials<br>
+<input type='checkbox' name=course62 value="ECS315"> Physics of Atmosphere & Ocean<br>
+<input type='checkbox' name=course63 value="ECS314"> Earth and Life History<br>
+<input type='checkbox' name=course64 value="MTH318"> Combinatorics<br>
+<input type='checkbox' name=course65 value="PHY313"> Quantum Mechanics I<br>
+<input type='checkbox' name=course66 value="HSS411"> Contemporary Women Novelists<br>
+<input type='checkbox' name=course67 value="CHM413"> Bioinorganic Chemistry<br>
+<input type='checkbox' name=course68 value="BIO 431"> Epigenetics<br>
+<input type='checkbox' name=course69 value="CHM411"> Organic Synthesis — II<br>
+<input type='checkbox' name=course70 value="CHM410"> Advanced Molecular Spectroscopy<br>
+<input type='checkbox' name=course71 value="PHY401"> Lab Training/ Theory Project<br>
+<input type='checkbox' name=course72 value="HSS351"> Technological Evolution of<br>
+<input type='checkbox' name=course73 value="PHY462"> Plasma Physics<br>
+<input type='checkbox' name=course74 value="BIO 410"> Advanced Biochemistry I<br>
+<input type='checkbox' name=course75 value="BIO 411"> Ecology I<br>
